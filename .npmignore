@@ -1,0 +1,14 @@
+# Build artifacts
+dist/
+coverage/
+node_modules/
+
+# Config files
+.eslintrc.json
+jest.config.js
+tsconfig.json
+tsconfig.build.json
+
+# Source/Test files
+src/
+src/__tests__/
